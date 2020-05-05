@@ -2,6 +2,18 @@
 Anotações sobre tecnologias a estudar e qual carreira seguir.
 
 ## Front-end
+- HTML
+- CSS
+- JavaScript
+- NPM / YARN
+- SASS / LESS / PostCSS
+- BootStrap / Materialize
+- Gulp / Webpack / ESLint / Prettier
+- React / Vue / Angular
+- Styled Components
+- Typescript
+- Jest / Cypress / Enzyme
+- Storage / Location / WebSockets / ServiceWorkers / Notification
 
 ## Back-end
 
