@@ -1,13 +1,13 @@
 # Formação Carreira Desenvolvedor
-Anotações sobre tecnologias a estudar e qual carreira seguir.
+Anotações sobre algumas tecnologias a estudar e qual carreira seguir.
 
 ## Front-end
 - HTML
 - CSS
 - JavaScript / jQuery
 - NPM / YARN
-- SASS / LESS / PostCSS
-- BootStrap / Materialize
+- Sass / Less / PostCSS / Grunt
+- BootStrap / Materialize / WordPress
 - Gulp / Webpack / ESLint / Prettier
 - React / Vue / Angular
 - Styled Components
@@ -16,6 +16,17 @@ Anotações sobre tecnologias a estudar e qual carreira seguir.
 - Storage / Location / WebSockets / ServiceWorkers / Notification
 
 ## Back-end
+- PHP
+  - Composer
+  - MySQL / MariaDB
+  - Laravel
+- Node
+  - NPM / Yarn
+  - MongoDB
+  - Express
+- Apache / Nginx / Docker
+- WebSockets / GraphQL / ElasticSearch
+
 
 ## Mobile
 
