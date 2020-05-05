@@ -4,7 +4,7 @@ Anotações sobre tecnologias a estudar e qual carreira seguir.
 ## Front-end
 - HTML
 - CSS
-- JavaScript
+- JavaScript / jQuery
 - NPM / YARN
 - SASS / LESS / PostCSS
 - BootStrap / Materialize
